@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Shared",
+    "\\Shared\\Infrastructure",
+    "\\Shared\\Infrastructure\\DBContext",
+    "\\Trade",
+    "\\Trade\\Domain\\Entities",
+    "\\Trade\\Domain\\Interfaces",
+    "\\Trade\\Infrastructure",
+    "\\Trade\\Infrastructure\\Controller",
+    "\\Trade\\Infrastructure\\Repository"
+  ],
+  "SelectedNode": "\\Trade\\Infrastructure\\Repository\\VentasAppRepository.cs",
+  "PreviewInSolutionExplorer": false
+}
